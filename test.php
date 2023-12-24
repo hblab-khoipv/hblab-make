@@ -1,1 +1,2 @@
+#6909328e1e6d640e24bc2ba0b79f902e9be28484446a509d437f2393e4efa63d1
 * @responseFile storage/responses/funnels/get.funnel-top.json
